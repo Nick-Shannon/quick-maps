@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Osborne Park Day</name>
+    <description>Quick map of locations in Osborne Park, Western Australia.</description>
+
+    <Style id="locationPoint">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/paddle/orange-circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Placemark>
+      <name>The Inbetween Cafe</name>
+      <styleUrl>#locationPoint</styleUrl>
+      <description><![CDATA[
+        <p><strong>Type:</strong> Cafe</p>
+        <p><strong>Address:</strong> 12/381 Scarborough Beach Rd, Osborne Park WA 6017, Australia</p>
+        <p><a href="https://maps.apple/p/seI757vfGvAE~h">Open in Apple Maps</a></p>
+      ]]></description>
+      <ExtendedData>
+        <Data name="Type">
+          <value>Cafe</value>
+        </Data>
+        <Data name="Address">
+          <value>12/381 Scarborough Beach Rd, Osborne Park WA 6017, Australia</value>
+        </Data>
+        <Data name="Apple Maps">
+          <value>https://maps.apple/p/seI757vfGvAE~h</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>115.816544,-31.9130383,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Heaven Retreat Massage</name>
+      <styleUrl>#locationPoint</styleUrl>
+      <description><![CDATA[
+        <p><strong>Type:</strong> Massage</p>
+        <p><strong>Address:</strong> 1/454 Scarborough Beach Rd, Osborne Park WA 6017, Australia</p>
+        <p><a href="https://maps.apple/p/xLVSJrtXxxRIZ-">Open in Apple Maps</a></p>
+      ]]></description>
+      <ExtendedData>
+        <Data name="Type">
+          <value>Massage</value>
+        </Data>
+        <Data name="Address">
+          <value>1/454 Scarborough Beach Rd, Osborne Park WA 6017, Australia</value>
+        </Data>
+        <Data name="Apple Maps">
+          <value>https://maps.apple/p/xLVSJrtXxxRIZ-</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>115.810539,-31.9059544,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Tesla Perth Osborne Park</name>
+      <styleUrl>#locationPoint</styleUrl>
+      <description><![CDATA[
+        <p><strong>Type:</strong> Car dealership</p>
+        <p><strong>Address:</strong> 419 Scarborough Beach Rd, Osborne Park WA 6017, Australia</p>
+        <p><a href="https://maps.apple/p/J9~Dhih-IVLtIQ">Open in Apple Maps</a></p>
+      ]]></description>
+      <ExtendedData>
+        <Data name="Type">
+          <value>Car dealership</value>
+        </Data>
+        <Data name="Address">
+          <value>419 Scarborough Beach Rd, Osborne Park WA 6017, Australia</value>
+        </Data>
+        <Data name="Apple Maps">
+          <value>https://maps.apple/p/J9~Dhih-IVLtIQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>115.81250762939453,-31.909223556518555,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Auto Classic BMW</name>
+      <styleUrl>#locationPoint</styleUrl>
+      <description><![CDATA[
+        <p><strong>Type:</strong> Car dealership and service centre</p>
+        <p><strong>Address:</strong> 384 Scarborough Beach Rd, Osborne Park WA 6017, Australia</p>
+        <p><a href="https://maps.apple/p/SkgxKHYv5j5n.n">Open in Apple Maps</a></p>
+      ]]></description>
+      <ExtendedData>
+        <Data name="Type">
+          <value>Car dealership and service centre</value>
+        </Data>
+        <Data name="Address">
+          <value>384 Scarborough Beach Rd, Osborne Park WA 6017, Australia</value>
+        </Data>
+        <Data name="Apple Maps">
+          <value>https://maps.apple/p/SkgxKHYv5j5n.n</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>115.81707763671875,-31.911510467529297,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
