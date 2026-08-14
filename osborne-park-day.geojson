@@ -13,7 +13,8 @@
       "properties": {
         "Name": "The Inbetween Cafe",
         "Type": "Cafe",
-        "Address": "12/381 Scarborough Beach Rd, Osborne Park WA 6017, Australia"
+        "Address": "12/381 Scarborough Beach Rd, Osborne Park WA 6017, Australia",
+        "Apple Maps": "https://maps.apple/p/seI757vfGvAE~h"
       }
     },
     {
@@ -28,7 +29,8 @@
       "properties": {
         "Name": "Heaven Retreat Massage",
         "Type": "Massage",
-        "Address": "1/454 Scarborough Beach Rd, Osborne Park WA 6017, Australia"
+        "Address": "1/454 Scarborough Beach Rd, Osborne Park WA 6017, Australia",
+        "Apple Maps": "https://maps.apple/p/SkgxKHYv5j5n.n"
       }
     },
     {
@@ -36,14 +38,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.8122,
-          -31.9096
+          115.81250762939453,
+          -31.909223556518555
         ]
       },
       "properties": {
-        "Name": "Tesla Osborne Park",
+        "Name": "Tesla Perth Osborne Park",
         "Type": "Car dealership",
-        "Address": "419 Scarborough Beach Rd, Osborne Park WA 6017, Australia"
+        "Address": "419 Scarborough Beach Rd, Osborne Park WA 6017, Australia",
+        "Apple Maps": "https://maps.apple/p/xLVSJrtXxxRIZ-"
       }
     },
     {
@@ -51,14 +54,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.81708,
-          -31.91151
+          115.81707763671875,
+          -31.911510467529297
         ]
       },
       "properties": {
-        "Name": "BMW",
-        "Type": "Car dealership",
-        "Address": "384 Scarborough Beach Rd, Osborne Park WA 6017, Australia"
+        "Name": "Auto Classic BMW",
+        "Type": "Car dealership and service centre",
+        "Address": "384 Scarborough Beach Rd, Osborne Park WA 6017, Australia",
+        "Apple Maps": "https://maps.apple/p/J9~Dhih-IVLtIQ"
       }
     }
   ]
